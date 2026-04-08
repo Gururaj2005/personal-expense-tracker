@@ -23,7 +23,6 @@ A Python-based personal expense tracker with a graphical user interface (GUI) bu
    pip install python-dotenv twilio
 3. Add your credentials in `.env` file
 4. Run the program:
-   python test (1).py
+   python expense_tracker.py
 
-## Note
-Do not upload your `.env` file. Keep your credentials safe.
+
