@@ -1,0 +1,42 @@
+{
+    "incomes": [
+        {
+            "amount": 200.0,
+            "category": "Salary",
+            "desc": "No description",
+            "date": "2026-01-24 10:52:55"
+        },
+        {
+            "amount": 100.0,
+            "category": "Salary",
+            "desc": "No description",
+            "date": "2026-04-08 21:38:36"
+        },
+        {
+            "amount": 200.0,
+            "category": "General",
+            "desc": "No description",
+            "date": "2026-04-08 21:40:09"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 100.0,
+            "category": "food",
+            "desc": "restaurant",
+            "date": "2026-01-24 10:55:24"
+        },
+        {
+            "amount": 200.0,
+            "category": "General",
+            "desc": "No description",
+            "date": "2026-04-08 21:38:47"
+        },
+        {
+            "amount": 100.0,
+            "category": "General",
+            "desc": "No description",
+            "date": "2026-04-08 21:39:30"
+        }
+    ]
+}
